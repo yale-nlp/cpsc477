@@ -8,8 +8,8 @@ email: arman.cohan@yale.edu
 description: >
   Natural Language Processing - Yale University - Spring 2024
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-  <br/>Theme based on <a href="https://github.com/cmudeeprl"> CMU Deep RL</a>.
+  Powered by <a href="http://jekyllrb.com/" target="_blank"><u>Jekyll</u></a> with <a href="https://github.com/alshedivat/al-folio"><u>al-folio</u></a>
+  <br/>Theme based on <a href="https://github.com/cmudeeprl"><u> CMU Deep RL</u></a>.
 
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
