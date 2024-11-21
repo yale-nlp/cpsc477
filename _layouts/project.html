@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<table class="table table-hover">
+<thead>
+    <tr>
+        <th>Title</th>
+        <th>Members</th>
+        <th>Abstract</th>
+        <th>Link</th>
+    </tr>
+</thead>
+<tbody>
+{% for project in site.data.projects %}
+    <tr>
+        <td>{{ project.title }}</td>
+        <td>{{ project.members }}</td>
+        <td>{{ project.abstract }}</td>
+        <td><a href="{{ project.link }}" target="_blank">View Project</a></td>
+    </tr>
+{% endfor %}
+</tbody>
+</table>
