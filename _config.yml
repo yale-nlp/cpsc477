@@ -6,7 +6,7 @@ name: CPSC 477/577
 title: Natural Language Processing
 email: arman.cohan@yale.edu
 description: >
-  Natural Language Processing - Yale University - Spring 2024
+  Natural Language Processing - Yale University - Spring 2025
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>
   <br/>Theme based on <a href="https://github.com/cmudeeprl"> CMU Deep RL</a>.
@@ -17,7 +17,7 @@ baseurl: # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: armancohan
+github_username:
 google_analytics:
 youtube_channel:
 rss: # notes rss
