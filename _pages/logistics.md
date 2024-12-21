@@ -11,10 +11,11 @@ title: Logistics
 
 ### Introduction
 
-This course provides a deep dive into modern Natural Language Processing (NLP), focusing on neural approaches and their applications. The curriculum spans both foundational neural concepts and cutting-edge developments in the field.  
+This course provides a deep dive into modern Natural Language Processing (NLP), focusing on neural approaches, and (large) language models. The curriculum spans both foundational neural concepts and cutting-edge developments in the field.  
 The course begins with core neural network concepts in NLP, covering word embeddings, sequence modeling, and attention mechanisms. Students will gain a strong understanding of these building blocks while learning their practical implementations.  
-Building on these foundations, we explore transformer architectures and their evolution, including landmark models like BERT, GPT, and T5. The course examines how these models enable sophisticated language understanding and generation through pre-training and transfer learning.
-The latter portion covers contemporary advances: Large Language Models (LLMs), multi-modal integration, parameter-efficient fine-tuning, and model compression. We'll analyze the capabilities and limitations of current systems while discussing emerging research directions.  
+Building on these foundations, we explore transformer architectures and their evolution, including language models like GPT and T5. The course examines how these models enable sophisticated language understanding and generation through pre-training and transfer learning.
+The latter portion covers contemporary advances: Large Language Models (LLMs), multi-modal integration, parameter-efficient fine-tuning, evaluation, multi-agent systems, and model compression. We'll analyze the capabilities and limitations of current systems while discussing emerging research directions.  
+
 Through lectures, hands-on assignments, and projects, students will gain both theoretical understanding and practical experience implementing modern NLP systems. The course emphasizes reproducible experimentation and real-world applications.
 
 ### Prerequisites
@@ -22,7 +23,7 @@ This course requires:
 
 - Strong programming skills in Python and prior exposure to libraries such as numpy, PyTorch, or TensorFlow
 - Familiarity with probability and statistics, and linear algebra
-- Prior exposure to machine learning concepts through courses like CPSC 481 (Intro to Machine Learning) or CPSC 470 (Artificial Intelligence)
+- Prior exposure to machine learning concepts through courses Intro to ML or Intro to AI.
 
 **Important Note:** This course assumes familiarity with fundamental machine learning concepts like gradient descent, neural networks, and backpropagation. 
 Although we review these concepts, students without prior ML/AI coursework should first take an introductory ML or AI course before enrolling. The course material builds heavily on these concepts from day one, and there will not be time to cover these basics in detail.
@@ -48,11 +49,14 @@ For questions about the course, discussions about material, and faciliatating di
 
 Final grades will be comprised of:
 
-- 22%: Assignments, which includes both written and coding problem sets
+- 23%: Assignments, which includes both written and coding problem sets
 - 40%: Two Midterm Exams (20% each), in person, closed book
-- 8%: Participation and quizzes
-- 30%: Final projects, including a project proposal (5%), project final presentation (15%), project final report (15%), code and reproducibility checklist (5%)
+- 7%: Participation and quizzes
+- 30%: Final projects
 - Grading for graduate students: Graduate students will need to incorporate a novelty element and a more in-depth literature review in their final projects
+
+The cutoffs for final grades will be approximately 93+ A, 89+ A-, 85+ B+, 82+ B, 78+ B-, ...
+Although we reserve some flexiblity to change these thresholds slightly.
 
 ### AI Assistant policies
 
@@ -125,7 +129,7 @@ If you don't choose a team you will be randomly assigned a team mate. Invidiual 
 [Academic integrity](http://catalog.yale.edu/undergraduate-regulations/regulations/academic-dishonesty/) requires that students at Yale acknowledge all of the sources that inform their coursework. Most commonly, this means (a) citing the sources of any text or data that you include in papers and projects, and (b) only collaborating with other students or using AI composition software in ways that are explicitly endorsed by the assignment. Yale’s dedication to academic integrity flows from our two primary commitments: supporting research and educating students to contribute to ongoing scholarship. A safe and ethical climate for research demands that previous authors and artists receive credit for their work. And learning requires that you do your own work. Conventions for acknowledging sources vary across disciplines, and instructors should instruct you in the forms they expect; they should also delineate which forms of collaboration among students are permitted. But ultimately it is the student’s responsibility to act with integrity, and the burden is on you to ask questions if anything about course policies is unclear.
 
 ## Diversity statement
-We embrace and celebrate diversity, understanding that the richest learning experiences come from the exchange of ideas among individuals from varied backgrounds, cultures, and perspectives. We uphold a commitment to mutual respect and open-mindedness, encouraging each participant to both share their unique insights and actively listen to others. Recognizing that learning is a collaborative and evolving process, we foster an inclusive environment where constructive criticism is welcomed, mistakes are embraced as opportunities for growth, and every student is both a teacher and a learner. Our goal is to cultivate a dynamic, respectful, and inclusive classroom environment. 
+Our course welcomes students of all backgrounds, identities, and experiences. We value diverse perspectives and believe they enhance our understanding of the subject matter. We are committed to creating an inclusive environment where all students can participate fully and succeed.
 
 
 <!-- ## FAQs
