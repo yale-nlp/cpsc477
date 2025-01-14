@@ -53,8 +53,8 @@ We will also using papers from major conferences in the field including ACL, EMN
 ***
 
 - **Lectures:** Tue/Thur 2:30PM - 3:45PM
-- **Lecture Location:**  TBD
-- **Office Hours Location:** [17HH #326](https://maps.app.goo.gl/uySqex4xtLZH2KAK9){:target="\_blank"}
-- **Discussion:** [Ed Discussions](https://edstem.org/){:target="\_blank"}
+- **Lecture Location:**  [DAVIES AUD - Davies Auditorium, Becton Ctr AUD](https://map.yale.edu/?id=1910#!m/563685)
+- **Office Hours Location:** [17HH #326](https://maps.app.goo.gl/uySqex4xtLZH2KAK9){:target="\_blank"} 
+- **Discussion:** [Ed Discussions](https://edstem.org/us/courses/70268/){:target="\_blank"}
 
 ***
