@@ -196,6 +196,19 @@
     - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
   logistics:
 
+- date: Tue 03/06/25
+  lecturer: Arman
+  guest:
+    - name: Valerie Chen
+    - profile: https://valeriechen.github.io/
+    - photo: staff/valerie_chen.jpg
+    - affil: Carnegie Mellon University
+  title:
+    - Language Models for Code
+  slides:
+  readings:
+  optional:
+
 - date: 03/07/25 - 03/24/25
   title: >
     <strong> Spring recess - No classes </strong>
