@@ -2,9 +2,35 @@ Instructors:
   - name: Arman Cohan
     email: arman.cohan@yale.edu
     url: https://armancohan.com
-    office-hours: Tues 4-5pm (by appointment)
+    office-hours: Tues 4:15-5:15pm (by appointment)
     appointment-url: https://calendly.com/arman-cohan/office-hours
     location: 17 Hillhouse Room 326
     image: staff/arman.jpg
 
 TAs:
+  - name: Kaili Liu
+    email: kaili.liu@yale.edu
+    url: https://pybeebee.com/
+    office-hours: TBD
+    location: 3rd floor of 17 Hillhouse
+    image: staff/kaili_liu.png
+
+  - name: Yilun Zhao
+    email: yilun.zhao@yale.edu
+    url: https://yilunzhao.github.io/
+    office-hours: TBD
+    location: 3rd floor of 17 Hillhouse
+    image: staff/yilun.jpg
+
+  - name: Chuhan Li
+    email: chuhan.li@yale.edu
+    office-hours: TBD
+    url: https://leechuh.github.io/
+    location: 3rd floor of 17 Hillhouse
+    image: staff/chuhan_li.jpg
+
+  - name: Syed Rizvi
+    email: syed.rizvi@yale.edu
+    url: https://syedarizvi.com/
+    location: 3rd floor of 17 Hillhouse
+    image: staff/syed_rizvi.png
