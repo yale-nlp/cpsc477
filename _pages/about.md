@@ -6,14 +6,13 @@ description: CPSC 477/577 • Spring 2025 • Yale University
 logo: yale-logo.png
 news: true
 ---
-Welcome to CPSC 477/577!
+Welcome to CPSC 477/577 -- Natural Language Processing!
 
-This course provides a deep dive into modern Natural Language Processing (NLP), focusing on deep learning approaches and their applications. 
+This year, we have updated the syllabus and we'll focus heavily on Language Modeling and recent advances in the field. 
 The curriculum spans both foundational concepts and cutting-edge developments in the field including Large Language Models (LLMs).
 The course begins with core neural network concepts in NLP, covering word embeddings, sequence modeling, and attention mechanisms. Students will gain a strong understanding of these building blocks while learning their practical implementations.
-Building on these foundations, we explore transformer architectures and their evolution, including landmark models like BERT, GPT, and T5. The course examines how these models enable sophisticated language understanding and generation through pre-training and transfer learning.
-The latter portion covers contemporary advances: LLMs, parameter-efficient fine-tuning, and efficiency techniques. We'll analyze the capabilities and limitations of current systems while discussing emerging research directions.
-Through lectures, hands-on assignments, and projects, students will gain both theoretical understanding and practical experience implementing modern NLP systems. The course emphasizes reproducible experimentation and real-world applications.
+Building on these foundations, we explore transformer architectures and their evolution, including landmark language models such as GPT. The course examines how these models enable sophisticated language understanding and generation through pre-training and transfer learning.
+The latter portion covers contemporary advances: LLMs, parameter-efficient fine-tuning, post-training, and efficiency techniques. We'll analyze the capabilities and limitations of current systems while discussing emerging research directions.
 
 **Prerequisites:**
 
