@@ -200,9 +200,9 @@
   lecturer: Arman
   guest:
     - name: Valerie Chen
-    - profile: https://valeriechen.github.io/
-    - photo: https://valeriechen.github.io/images/headshot1.png
-    - affil: Carnegie Mellon University
+      profile: https://valeriechen.github.io/
+      photo: https://valeriechen.github.io/images/headshot1.png
+      affil: Carnegie Mellon University
   title:
     - Language Models for Code
   slides:
