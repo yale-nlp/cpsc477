@@ -19,7 +19,6 @@ The latter portion covers contemporary advances: LLMs, parameter-efficient fine-
 Intro to ML or Intro to AI are required.
 
 **FAQ:**
-
 > ##### **Q: Can I take this course?**
 >
 > ##### You should have taken one of the above courses. If you have not, please consult the instructor before enrolling.
@@ -35,9 +34,7 @@ Intro to ML or Intro to AI are required.
 >
 > ##### **Q: I may miss several lectures. Can I still take the course?**
 >
-> ##### Regular attendance is mandatory, and we do not guarantee lecture recordings.
-> ##### Missing more than a few classes significantly impacts learning outcomes and participation grade. 
-> ##### If you anticipate scheduling conflicts, consider taking the course in a future semester.
+> ##### Regular attendance is mandatory, and we do not guarantee lecture recordings. Missing more than a few classes significantly impacts learning outcomes and participation grade. If you anticipate scheduling conflicts, consider taking the course in a future semester.
 
 **Important Note:** We strongly advise against taking this course if you do not meet the prerequisites.
 
