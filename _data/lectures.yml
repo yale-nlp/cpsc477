@@ -15,6 +15,7 @@
     - Word embeddings and vector semantics
   slides:
   readings:
+    - Jurafsky & Martin Chapter 6
   optional:
   logistics:
 
@@ -24,7 +25,11 @@
     - Word embeddings and vector semantics (cont.)
   slides:
   readings:
+    - Jurafsky & Martin Chapter 6
   optional:
+    - Distributed Representation of Words and Phrases and their Compositionality (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1310.4546.pdf" target="_blank">[link]</a>
+    - Efficient Estimation of Word Representations in Vector Space (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1301.3781.pdf" target="_blank">[link]</a>
+    - Word2vec Explained- deriving Mikolov et al.'s negative-sampling word-embedding method (Goldberg and Levy, 2014) <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">[link]</a>
   logistics:
 
 - date: Thu 01/23/25
