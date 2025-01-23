@@ -31,7 +31,7 @@
     - Distributed Representation of Words and Phrases and their Compositionality (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1310.4546.pdf" target="_blank">[link]</a>
     - Efficient Estimation of Word Representations in Vector Space (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1301.3781.pdf" target="_blank">[link]</a>
     - Word2vec Explained- deriving Mikolov et al.'s negative-sampling word-embedding method (Goldberg and Levy, 2014) <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">[link]</a>
-  logistics: HW1 out 
+  logistics: 
 
 - date: Thu 01/23/25
   lecturer:
@@ -42,7 +42,7 @@
     - The Matrix Calculus You Need For Deep Learning (Terence Parr and Jeremy Howard) <a href="https://arxiv.org/pdf/1802.01528.pdf" target="_blank">[link]</a>
     - Little book of deep learning (François Fleuret) - Ch 3
   optional:
-  logistics:
+  logistics: HW1 out 
 
 - date: Tue 01/28/25
   lecturer:
@@ -100,7 +100,7 @@
     - Luong et al. (2015) Effective Approaches to Attention-based Neural Machine Translation <a href="https://arxiv.org/pdf/1508.04025.pdf" target="_blank">[link]</a>
     - Attention is All You Need (Vaswani et al., 2017) <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">[link]</a>
     - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
-  logistics: HW 1 due 
+  logistics: Project teams due on 02/09
 
 - date: Tue 02/11/25
   lecturer:
@@ -147,7 +147,7 @@
     - BERT- Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018) <a href="https://arxiv.org/pdf/1810.04805.pdf" target="_blank">[link]</a>
     - GPT-2 (Radford et al., 2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">[link]</a>
   optional:
-  logistics:
+  logistics: HW 1 due / HW 2 out
 
 - date: Tue 02/20/25
   lecturer:
@@ -185,7 +185,7 @@
     - Training Compute-Optimal Large Language Models (Hoffmann et al., 2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
     - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
   optional:
-  logistics:
+  logistics: Project proposals due on 03/01
 
 - date: Tue 03/04/25
   lecturer: Arman
@@ -200,7 +200,6 @@
     - Scaling Instruction-Finetuned Language Models (Chung et al., 2022) <a href="https://arxiv.org/abs/2210.11416" target="_blank">[link]</a>
     - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
     - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
-  logistics:
 
 - date: Tue 03/06/25
   lecturer: Arman
@@ -214,6 +213,7 @@
   slides:
   readings:
   optional:
+  logistics: HW 2 due /  HW 3 out 
 
 - date: 03/07/25 - 03/24/25
   title: >
@@ -231,6 +231,7 @@
     - Direct Preference Optimization- Your Language Model is Secretly a Reward Model (Rafailov et al., 2023) <a href="https://arxiv.org/abs/2305.18290" target="_blank">[link]</a>
     - RLAIF- Scaling Reinforcement Learning from Human Feedback with AI Feedback (Lee et al., 2023) <a href="https://arxiv.org/abs/2309.00267" target="_blank">[link]</a>
   optional:
+  logistics:
 
 - date: Thu 03/27/25
   title:
@@ -239,11 +240,14 @@
   readings:
   optional:
 
-- date: Tue 04/01/25
+- date: Thu 04/01/25
   lecturer:
-    - Arman
-  title: >
-    <strong> Midterm Exam 2 </strong>
+  title:
+    - Evaluation
+  slides:
+  readings:
+  optional:
+
 
 - date: Thu 04/03/25
   lecturer:
@@ -252,9 +256,15 @@
   slides:
   readings:
   optional:
-  logistics:
+  logistics: HW3 due
 
 - date: Tue 04/08/25
+  lecturer:
+    - Arman
+  title: >
+    <strong> Midterm Exam 2 </strong>  
+
+- date: Tue 04/10/25
   lecturer:
   title:
     - Parameter-efficient Fine-Tuning
@@ -263,7 +273,7 @@
   optional:
   logistics:
 
-- date: Thu 04/10/25
+- date: Thu 04/15/25
   lecturer:
   title:
     - Safety
@@ -271,37 +281,31 @@
   slides:
   readings:
   optional:
-  logistics:
+  logistics: Final project presentations session 1
 
-- date: Tue 04/15/25
+- date: Tue 04/17/25
   lecturer:
   title:
     - Agent-based systems
   slides:
   readings:
   optional:
-  logistics:
+  logistics: Final project presentations session 2
 
-- date: Thu 04/17/25
+- date: Thu 04/22/25
   guest:
     - name: TBD
   title:
   slides:
   readings:
   optional:
-
-- date: Tue 04/22/25
-  guest:
-    - name: TBD
-  title:
-  slides:
-  readings:
-  optional:
+  logistics: 
 
 - date: Thu 04/24/25
   guest:
-    - name: TBD
+    - name: Guest lecture, TBD
   title:
   slides:
   readings:
   optional:
+  logistics: Final project reports due on 5/1
