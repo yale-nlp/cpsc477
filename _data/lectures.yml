@@ -213,7 +213,7 @@
   slides:
   readings:
   optional:
-  logistics: HW 2 due /  HW 3 out 
+  logistics: HW 2 due 
 
 - date: 03/07/25 - 03/24/25
   title: >
@@ -239,6 +239,7 @@
   slides:
   readings:
   optional:
+  logistics: HW 3 out 
 
 - date: Thu 04/01/25
   lecturer:
@@ -247,7 +248,7 @@
   slides:
   readings:
   optional:
-  logistics: HW3 due
+  logistics:
 
 
 - date: Thu 04/03/25
@@ -300,7 +301,7 @@
   slides:
   readings:
   optional:
-  logistics: 
+  logistics: HW3 due
 
 - date: Thu 04/24/25
   guest:
