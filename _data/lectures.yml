@@ -68,10 +68,8 @@
   lecturer:
     - Arman
   title:
+    - Neural network basics
     - Autograd
-    - Building blocks of Neural Networks
-    - Convolutional layers
-    - Network layers and optimizers
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWBDVm9WpaVPs4VimgD5uxQB5WkYtAJuumJ9XfGIxBuvPg?e=HhnhC6
   readings:
@@ -84,11 +82,11 @@
   lecturer:
     - Arman
   title:
-    - Building blocks of Neural Networks for NLP
-    - Task specific neural network architectures
-    - RNNs
+    - Auto Grad
+    - Building blocks of Deep Learning for NLP
+    - CNNs
   slides:
-    # - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERiCgJVHJoxMreRomSuVlHkBc2IfZPv7K6JRV7JfsSW5OQ?e=1HGdDK
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EboO6OJwKV1OjGndZnaamNUB_5cZkmgvxoi8Tf5g2N3Kaw?e=Yw4qzo
   readings:
     - Goldberg Chapter 9
   optional:
@@ -98,7 +96,8 @@
   lecturer:
     - Arman
   title:
-    - RNNs (contd.)
+    - RNNs
+    - Task specific neural network architectures
     - Machine translation
   slides:
   readings:
