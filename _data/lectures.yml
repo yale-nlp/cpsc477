@@ -103,6 +103,7 @@
     - Task specific neural network architectures
     - Machine translation
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ET1MdP7nmdZIpw5wHVY6c4UBmseEI4E_440BQprXBFZmPQ?e=kHxgHP
   readings:
     - Understanding LSTM Networks (Christopher Olah) <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">[link]</a>
     - Eisenstein, Chapter 18
