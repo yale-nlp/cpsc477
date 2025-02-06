@@ -95,7 +95,10 @@
 - date: Tue 02/06/25
   lecturer:
     - Arman
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ET1MdP7nmdZIpw5wHVY6c4UBmseEI4E_440BQprXBFZmPQ?e=kHxgHP
   title:
+    - CNNs (contd.)
     - RNNs
     - Task specific neural network architectures
     - Machine translation
