@@ -114,10 +114,11 @@
 - date: Thu 02/11/25
   lecturer:
   title:
+    - RNNs (contd.)
+    - Training sequence models
     - Machine translation (contd.)
-    - Attention
-    - Transformers
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EV2Z-ffxQSBBtFNL-nIXxcUBuMG75pXsiq1nmyuNKtJvgA?e=dzDvuM
   readings:
     - Statistical Machine Translation (Koehn) <a href="https://www.statmt.org/book/" target="_blank">[link]</a>
     - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
