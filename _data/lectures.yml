@@ -24,6 +24,8 @@
   lecturer:
   title:
     - Word embeddings and vector semantics (cont.)
+    - Sparse representations
+    - Dense representations
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERYhVcO2wThCij2SS4QvrZoBf3uJXnqnpGhma_2QyWNQiA?e=pcgmGy
   readings:
@@ -32,44 +34,47 @@
     - Distributed Representation of Words and Phrases and their Compositionality (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1310.4546.pdf" target="_blank">[link]</a>
     - Efficient Estimation of Word Representations in Vector Space (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1301.3781.pdf" target="_blank">[link]</a>
     - Word2vec Explained- deriving Mikolov et al.'s negative-sampling word-embedding method (Goldberg and Levy, 2014) <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">[link]</a>
-  logistics: 
+  logistics:
 
 - date: Thu 01/23/25
   lecturer:
   title:
-    - Basics of Neural Networks and Language Model Training
+    - Deriving the gradient of Word2vec
+    - Evaluation of word embeddings
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EbzzWnTtbqxFoRQz5NDU4RQBar1GpnrcQuobMLNwiljwaQ?e=MD5nHZ
+  annotated:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EdE6CsTv9BFPulS6tlAmb8ABFftomH_-1s2aoaqqFiaqCA?e=YXixeM
   readings:
-    - The Matrix Calculus You Need For Deep Learning (Terence Parr and Jeremy Howard) <a href="https://arxiv.org/pdf/1802.01528.pdf" target="_blank">[link]</a>
-    - Little book of deep learning (François Fleuret) - Ch 3
+    - Jurafsky & Martin Chapter 6
+    - Distributed Representation of Words and Phrases and their Compositionality (Mikolov et al., 2013) <a href="https://arxiv.org/pdf/1310.4546.pdf" target="_blank">[link]</a>
   optional:
-  logistics: HW1 out 
-
-- date: Tue 01/28/25
-  lecturer:
-    - Arman
-  title:
-    - Autograd
-    - Building blocks of Neural Networks
-    - Convolutional layers
-    - Network layers and optimizers
-  slides:
-  readings:
-    - Little book of deep learning (François Fleuret) - Ch 4
-  optional:
-  logistics:
+  logistics: HW1 out
 
 - date: Thu 01/30/25
   lecturer:
+  title:
+    - N-Gram Language Models
+    - Smoothing
+    - Evaluation of Language Models
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ETSbGs3eQChEhDZBAb65JcABk22O4HbTHkRPdXYCca0c4Q?e=peWcBf
+  readings:
+    - Jurafsky & Martin Chapter 7
+  optional:
+  logistics:
+
+- date: Friday 01/31/25
+  lecturer:
     - Arman
   title:
-    - Building blocks of Neural Networks for NLP
-    - Taks specific neural network architectures
-    - RNNs
+    - Neural network basics
+    - Autograd
   slides:
-    # - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERiCgJVHJoxMreRomSuVlHkBc2IfZPv7K6JRV7JfsSW5OQ?e=1HGdDK
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EWBDVm9WpaVPs4VimgD5uxQB5WkYtAJuumJ9XfGIxBuvPg?e=HhnhC6
   readings:
-    - Goldberg Chapter 9
+    - The Matrix Calculus You Need For Deep Learning (Terence Parr and Jeremy Howard) <a href="https://arxiv.org/pdf/1802.01528.pdf" target="_blank">[link]</a>
+    - Little book of deep learning (François Fleuret) - Ch 3, 4
   optional:
   logistics:
 
@@ -77,23 +82,43 @@
   lecturer:
     - Arman
   title:
-    - RNNs (contd.)
+    - Auto Grad
+    - Building blocks of Deep Learning for NLP
+    - CNNs
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EboO6OJwKV1OjGndZnaamNUB_5cZkmgvxoi8Tf5g2N3Kaw?e=Yw4qzo
+  readings:
+    - Goldberg Chapter 9
+  optional:
+  logistics:
+
+- date: Tue 02/06/25
+  lecturer:
+    - Arman
+  slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ET1MdP7nmdZIpw5wHVY6c4UBmseEI4E_440BQprXBFZmPQ?e=kHxgHP
+  title:
+    - CNNs (contd.)
+    - RNNs
+    - Task specific neural network architectures
     - Machine translation
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ET1MdP7nmdZIpw5wHVY6c4UBmseEI4E_440BQprXBFZmPQ?e=kHxgHP
   readings:
     - Understanding LSTM Networks (Christopher Olah) <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">[link]</a>
     - Eisenstein, Chapter 18
   optional:
     - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
-  logistics: 
+  logistics:
 
-- date: Thu 02/06/25
+- date: Thu 02/11/25
   lecturer:
   title:
+    - RNNs (contd.)
+    - Training sequence models
     - Machine translation (contd.)
-    - Attention
-    - Transformers
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EV2Z-ffxQSBBtFNL-nIXxcUBuMG75pXsiq1nmyuNKtJvgA?e=dzDvuM
   readings:
     - Statistical Machine Translation (Koehn) <a href="https://www.statmt.org/book/" target="_blank">[link]</a>
     - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
@@ -103,7 +128,7 @@
     - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
   logistics: Project teams due on 02/09
 
-- date: Tue 02/11/25
+- date: Tue 02/13/25
   lecturer:
   title:
     - Machine translation (contd.)
@@ -119,7 +144,7 @@
     - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
   optional:
 
-- date: Thu 02/13/25
+- date: Thu 02/18/25
   lecturer:
     - Arman
   title:
@@ -132,9 +157,9 @@
     - The Annotated Transformer (Harvard NLP) <a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html" target="_blank">[link]</a>
     - GPT-2 (Radford et al., 2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">[link]</a>
   optional:
-  logistics:
+  logistics: HW 1 due / HW 2 out
 
-- date: Tue 02/18/25
+- date: Tue 02/20/25
   lecturer:
     - Arman
   title:
@@ -148,9 +173,9 @@
     - BERT- Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018) <a href="https://arxiv.org/pdf/1810.04805.pdf" target="_blank">[link]</a>
     - GPT-2 (Radford et al., 2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">[link]</a>
   optional:
-  logistics: HW 1 due / HW 2 out
+  logistics:
 
-- date: Tue 02/20/25
+- date: Tue 02/25/25
   lecturer:
     - Arman
   title:
@@ -165,13 +190,13 @@
   optional:
   logistics:
 
-- date: Thu 02/25/25
+- date: Thu 02/27/25
   lecturer:
     - Arman
   title: >
     <strong> Midterm Exam 1 </strong>
 
-- date: Thu 02/27/25
+- date: Thu 03/04/25
   lecturer:
     - Arman
   title:
@@ -202,7 +227,7 @@
     - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
     - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
 
-- date: Tue 03/06/25
+- date: Thu 03/06/25
   lecturer: Arman
   guest:
     - name: Valerie Chen
@@ -214,7 +239,7 @@
   slides:
   readings:
   optional:
-  logistics: HW 2 due 
+  logistics: HW 2 due
 
 - date: 03/07/25 - 03/24/25
   title: >
@@ -240,22 +265,26 @@
   slides:
   readings:
   optional:
-  logistics: HW 3 out 
+  logistics: HW 3 out
 
 - date: Thu 04/01/25
-  lecturer:
+  guest:
+    - name: Yixin Liu
+      profile: https://yixinl7.github.io/
+      photo: https://yixinl7.github.io/yixin-new.jpg
+      affil: Yale University
   title:
-    - Evaluation
+    - Evaluation of natural language generation systems
+    - LLM evaluations
   slides:
   readings:
   optional:
   logistics:
 
-
 - date: Thu 04/03/25
   lecturer:
   title:
-    - Evaluation
+    - Agent-based systems
   slides:
   readings:
   optional:
@@ -265,7 +294,7 @@
   lecturer:
     - Arman
   title: >
-    <strong> Midterm Exam 2 </strong>  
+    <strong> Midterm Exam 2 </strong>
 
 - date: Tue 04/10/25
   lecturer:
@@ -278,9 +307,7 @@
 
 - date: Thu 04/15/25
   lecturer:
-  title:
-    - Safety
-    - Noncomplience
+  title: Project presentations session 1
   slides:
   readings:
   optional:
@@ -288,8 +315,7 @@
 
 - date: Tue 04/17/25
   lecturer:
-  title:
-    - Agent-based systems
+  title: Project presentations session 2
   slides:
   readings:
   optional:
@@ -299,6 +325,8 @@
   guest:
     - name: TBD
   title:
+    - Safety
+    - Noncomplience
   slides:
   readings:
   optional:
