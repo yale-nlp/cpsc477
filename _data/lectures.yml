@@ -92,7 +92,7 @@
   optional:
   logistics:
 
-- date: Tue 02/06/25
+- date: Thu 02/06/25
   lecturer:
     - Arman
   slides:
@@ -111,7 +111,7 @@
     - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
   logistics:
 
-- date: Thu 02/11/25
+- date: Tue 02/11/25
   lecturer:
   title:
     - RNNs (contd.)
@@ -128,7 +128,7 @@
     - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
   logistics: Project teams due on 02/09
 
-- date: Tue 02/13/25
+- date: Thu 02/13/25
   lecturer:
   title:
     - Machine translation (contd.)
@@ -144,7 +144,7 @@
     - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
   optional:
 
-- date: Thu 02/18/25
+- date: Tue 02/18/25
   lecturer:
     - Arman
   title:
@@ -159,7 +159,7 @@
   optional:
   logistics: HW 1 due / HW 2 out
 
-- date: Tue 02/20/25
+- date: Thu 02/20/25
   lecturer:
     - Arman
   title:
@@ -196,7 +196,7 @@
   title: >
     <strong> Midterm Exam 1 </strong>
 
-- date: Thu 03/04/25
+- date: Tue 03/04/25
   lecturer:
     - Arman
   title:
@@ -212,20 +212,6 @@
     - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
   optional:
   logistics: Project proposals due on 03/01
-
-- date: Tue 03/04/25
-  lecturer: Arman
-  title:
-    - In-context learning and prompting (cont'd)
-    - Improving instruction following and few-shot learning
-  slides:
-  readings:
-    - Few-Shot Learning with Language Models (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
-    - Finetuned Language Models Are Zero-Shot Learners (Wei et al., 2022) <a href="https://arxiv.org/abs/2109.01652" target="_blank">[link]</a>
-    - Multitask Prompted Training Enables Zero-Shot Task Generalization (Sanh et al., 2021) <a href="https://arxiv.org/abs/2110.08207" target="_blank">[link]</a>
-    - Scaling Instruction-Finetuned Language Models (Chung et al., 2022) <a href="https://arxiv.org/abs/2210.11416" target="_blank">[link]</a>
-    - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
-    - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
 
 - date: Thu 03/06/25
   lecturer: Arman
@@ -246,6 +232,20 @@
     <strong> Spring recess - No classes </strong>
 
 - date: Tue 03/25/25
+lecturer: Arman
+title:
+  - In-context learning and prompting (cont'd)
+  - Improving instruction following and few-shot learning
+slides:
+readings:
+  - Few-Shot Learning with Language Models (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
+  - Finetuned Language Models Are Zero-Shot Learners (Wei et al., 2022) <a href="https://arxiv.org/abs/2109.01652" target="_blank">[link]</a>
+  - Multitask Prompted Training Enables Zero-Shot Task Generalization (Sanh et al., 2021) <a href="https://arxiv.org/abs/2110.08207" target="_blank">[link]</a>
+  - Scaling Instruction-Finetuned Language Models (Chung et al., 2022) <a href="https://arxiv.org/abs/2210.11416" target="_blank">[link]</a>
+  - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
+  - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>
+
+- date: Thu 03/27/25
   title:
     - Post-training
     - Reinforcement learning from Human Feedback
@@ -259,7 +259,7 @@
   optional:
   logistics:
 
-- date: Thu 03/27/25
+- date: Tue 04/01/25
   title:
     - Post-training (cont'd)
   slides:
@@ -267,7 +267,7 @@
   optional:
   logistics: HW 3 out
 
-- date: Thu 04/01/25
+- date: Thu 04/03/25
   guest:
     - name: Yixin Liu
       profile: https://yixinl7.github.io/
@@ -281,7 +281,7 @@
   optional:
   logistics:
 
-- date: Thu 04/03/25
+- date: Tue 04/08/25
   lecturer:
   title:
     - Agent-based systems
@@ -290,13 +290,13 @@
   optional:
   logistics:
 
-- date: Tue 04/08/25
+- date: Thu 04/10/25
   lecturer:
     - Arman
   title: >
     <strong> Midterm Exam 2 </strong>
 
-- date: Tue 04/10/25
+- date: Tue 04/15/25
   lecturer:
   title:
     - Parameter-efficient Fine-Tuning
@@ -305,7 +305,7 @@
   optional:
   logistics:
 
-- date: Thu 04/15/25
+- date: Thu 04/17/25
   lecturer:
   title: Project presentations session 1
   slides:
@@ -313,7 +313,7 @@
   optional:
   logistics: Final project presentations session 1
 
-- date: Tue 04/17/25
+- date: Tue 04/22/25
   lecturer:
   title: Project presentations session 2
   slides:
@@ -321,7 +321,7 @@
   optional:
   logistics: Final project presentations session 2
 
-- date: Thu 04/22/25
+- date: Thu 04/24/25
   guest:
     - name: TBD
   title:
@@ -330,13 +330,13 @@
   slides:
   readings:
   optional:
-  logistics: HW3 due
+  logistics: HW3 due, Final project reports due on 5/1
 
-- date: Thu 04/24/25
-  guest:
-    - name: Guest lecture, TBD
-  title:
-  slides:
-  readings:
-  optional:
-  logistics: Final project reports due on 5/1
+# - date: Thu 04/24/25
+#   guest:
+#     - name: Guest lecture, TBD
+#   title:
+#   slides:
+#   readings:
+#   optional:
+#   logistics: Final project reports due on 5/1
