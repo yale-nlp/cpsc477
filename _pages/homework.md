@@ -6,6 +6,20 @@ title: Homework Assignments
 
 All homeworks should be submitted through Gradscope.
 
+## Homework 2
+
+### Part 1: Implementing a transformer model (50 points)
+
+In this part, your goal is to design and implement a Transformer-based model. You are expected to gain a deeper understanding of the inner workings of the Transformer by building its core components from scratch.
+
+Download the Google Colab notebook from the following link: [Download](https://drive.google.com/file/d/1ZxsE5lvOdtodmNI_eS86i612ytxTRb6u/view?usp=sharing).
+
+
+### Part 2: Text generation and decoding (50 points)
+
+n this part, you will apply your Transformer model for sequence generation. This will be a task on text summarization in which you will explore using an off-the-shelf language model, and evaluation methods. This also focuses on experimenting with and evaluating different decoding strategies for text generation.
+
+Download the Google Colab notebook from the following link: [Download](https://drive.google.com/file/d/1ZVRMaZv4nzoGE1LhIBGZH3Eel5UyCHFw/view?usp=sharing).
 
 ## Homework 1
 
