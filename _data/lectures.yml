@@ -135,6 +135,8 @@
     - Transformers
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ET8CJC5rp2RKrXAu_q5IjI0BUZ8w_VxGFukAyVaVEXzJrg?e=d7ALEQ
+  annotated:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EYIudrCDWFZNqIUkddqwi7UBRE0mZnssTqCnjYapuonbSQ?e=TsvbQJ
   readings:
     - Neural Machine Translation and Sequence-to-sequence Models- A Tutorial (Graham Neubig) <a href="https://arxiv.org/pdf/1703.01619.pdf" target="_blank">[link]</a>
     - Learning to Align and Translate with Attention (Bahdanau et al., 2015) <a href="https://arxiv.org/pdf/1409.0473.pdf" target="_blank">[link]</a>
@@ -150,6 +152,7 @@
     - Transformers (cont'd.)
     - Language modeling with Transformers
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQ7n94Gc7PpAkd462VJo3uIBFGo3VSFxlzXt83OAKba_9A?e=HmthNf
   readings:
     - Illustrated Transformer <a href="http://jalammar.github.io/illustrated-transformer/" target="_blank">[link]</a>
     - Attention is All You Need (Vaswani et al., 2017) <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">[link]</a>
