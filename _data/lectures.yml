@@ -224,7 +224,7 @@
   slides:
   readings:
   optional:
-  logistics: HW 2 due
+  logistics: HW 2 due 
 
 - date: 03/07/25 - 03/24/25
   title: >
@@ -248,7 +248,7 @@
     - Are Emergent Abilities of Large Language Models a Mirage? (Sha et al., 2023) <a href="https://arxiv.org/pdf/2304.15004.pdf" target="_blank">[link]</a>
     - Emergent Abilities of Large Language Models (Wei et al., 2022) <a href="https://arxiv.org/abs/2206.07682" target="_blank">[link]</a>  
   optional:
-  logistics: HW 2 due
+  logistics: 
   
   # lecturer: Arman
   
