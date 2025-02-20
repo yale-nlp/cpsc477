@@ -149,8 +149,9 @@
   lecturer:
     - Arman
   title:
-    - Transformers (cont'd.)
+    - Transformers (contd.)
     - Language modeling with Transformers
+    - Transfer Learning
   slides:
     - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQ7n94Gc7PpAkd462VJo3uIBFGo3VSFxlzXt83OAKba_9A?e=HmthNf
   readings:
@@ -165,15 +166,19 @@
   lecturer:
     - Arman
   title:
-    - Pre-training and transfer learning
+    - Transfer Learning (contd.)
     - Objective functions for pre-training
-    - Model architectures
-    - ELMO, BERT, GPT, T5
+    - Encoder-decoder pretrained models
+    - Architecture and pretraining objectives
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EZgliHqYSG1MrqM8UnbKw6YBNMfTwKwFzZFStln2_EbtUQ?e=1GRIfB
   readings:
     - The Illustrated BERT, ELMo, and co. (Jay Alammar) <a href="http://jalammar.github.io/illustrated-bert/" target="_blank">[link]</a>
     - BERT- Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018) <a href="https://arxiv.org/pdf/1810.04805.pdf" target="_blank">[link]</a>
     - GPT-2 (Radford et al., 2019) <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">[link]</a>
+    - T5- Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al., 2020) <a href="https://arxiv.org/pdf/1910.10683.pdf" target="_blank">[link]</a>
+    - BART- Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (Lewis et al., 2019) <a href="https://arxiv.org/pdf/1910.13461.pdf" target="_blank">[link]</a>
+    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (Wang et al, 2022) <a href="https://arxiv.org/abs/2204.05832" target="_blank">[link]</a>    
   optional:
   logistics:
 
