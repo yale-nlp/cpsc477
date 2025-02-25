@@ -186,16 +186,17 @@
   lecturer:
     - Arman
   title:
-    - Transfer learning (contd.)
-    - Encoder-decoder pretrained models
-    - Architecture and pretraining objectives
+    - Decoding and generation
+    - Large language models and impact of scale
+    - In-context learning and prompting
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ERM7prxa__JHr06GrtwOCBYBPwcIZV8UrMaA4Cdu3BFpjg?e=81LHwi
   readings:
-    - T5- Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al., 2020) <a href="https://arxiv.org/pdf/1910.10683.pdf" target="_blank">[link]</a>
-    - BART- Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (Lewis et al., 2019) <a href="https://arxiv.org/pdf/1910.13461.pdf" target="_blank">[link]</a>
-    - What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization? (Wang et al, 2022) <a href="https://arxiv.org/abs/2204.05832" target="_blank">[link]</a>
-  optional:
-  logistics:
+    - The Curious Case of Neural Text Degeneration (Holtzman et al., 2019) <a href="https://arxiv.org/pdf/1904.09751.pdf" target="_blank">[link]</a>
+    - How to generate text- using different decoding methods for language generation with Transformers <a href="https://huggingface.co/blog/how-to-generate" target="_blank">[link]</a>
+    - Scaling Laws for Neural Language Models (Kaplan et al., 2020) <a href="https://arxiv.org/pdf/2001.08361.pdf" target="_blank">[link]</a>
+    - Training Compute-Optimal Large Language Models (Hoffmann et al., 2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
+    - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
 
 - date: Thu 02/27/25
   lecturer:
@@ -203,24 +204,7 @@
   title: >
     <strong> Midterm Exam 1 </strong>
 
-- date: Tue 03/04/25
-  lecturer:
-    - Arman
-  title:
-    - Decoding and generation
-    - Large language models and impact of scale
-    - In-context learning and prompting
-  slides:
-  readings:
-    - The Curious Case of Neural Text Degeneration (Holtzman et al., 2019) <a href="https://arxiv.org/pdf/1904.09751.pdf" target="_blank">[link]</a>
-    - How to generate text- using different decoding methods for language generation with Transformers <a href="https://huggingface.co/blog/how-to-generate" target="_blank">[link]</a>
-    - Scaling Laws for Neural Language Models (Kaplan et al., 2020) <a href="https://arxiv.org/pdf/2001.08361.pdf" target="_blank">[link]</a>
-    - Training Compute-Optimal Large Language Models (Hoffmann et al., 2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
-    - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
-  optional:
-  logistics: Project proposals due on 03/01
-
-- date: Thu 03/06/25
+- date: Thu 03/04/25
   lecturer: Arman
   guest:
     - name: Valerie Chen
@@ -233,6 +217,21 @@
   readings:
   optional:
   logistics: HW 2 due 
+
+- date: Tue 03/04/25
+  lecturer:
+    - Arman
+  title:
+    - Scale (contd.)
+  slides:
+  readings:
+    - The Curious Case of Neural Text Degeneration (Holtzman et al., 2019) <a href="https://arxiv.org/pdf/1904.09751.pdf" target="_blank">[link]</a>
+    - How to generate text- using different decoding methods for language generation with Transformers <a href="https://huggingface.co/blog/how-to-generate" target="_blank">[link]</a>
+    - Scaling Laws for Neural Language Models (Kaplan et al., 2020) <a href="https://arxiv.org/pdf/2001.08361.pdf" target="_blank">[link]</a>
+    - Training Compute-Optimal Large Language Models (Hoffmann et al., 2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
+    - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
+  optional:
+  logistics: Project proposals due on 03/04  
 
 - date: 03/07/25 - 03/24/25
   title: >
