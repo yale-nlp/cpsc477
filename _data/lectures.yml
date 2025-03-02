@@ -218,7 +218,7 @@
   optional:
   logistics: HW 2 due 
 
-- date: Tue 03/04/25
+- date: Tue 03/06/25
   lecturer:
     - Arman
   title:
@@ -231,7 +231,7 @@
     - Training Compute-Optimal Large Language Models (Hoffmann et al., 2022) <a href="https://arxiv.org/pdf/2203.15556.pdf" target="_blank">[link]</a>
     - GPT3 paper - Language Models are Few-Shot Learners (Brown et al., 2020) <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">[link]</a>
   optional:
-  logistics: Project proposals due on 03/04  
+  logistics: Project proposals due;<br/>HW2 both due on 03/06  
 
 - date: 03/07/25 - 03/24/25
   title: >
