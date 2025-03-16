@@ -318,7 +318,7 @@
 - date: Tue 04/08/25
   lecturer:
   title:
-    - Agent-based systems
+    - Parameter-efficient Fine-Tuning
   slides:
   readings:
   optional:
@@ -333,27 +333,27 @@
 - date: Tue 04/15/25
   lecturer:
   title:
-    - Parameter-efficient Fine-Tuning
+    -  Project presentations session 1
   slides:
   readings:
   optional:
-  logistics:
+  logistics: Final project presentations
 
 - date: Thu 04/17/25
-  lecturer:
-  title: Project presentations session 1
-  slides:
-  readings:
-  optional:
-  logistics: Final project presentations session 1
-
-- date: Tue 04/22/25
   lecturer:
   title: Project presentations session 2
   slides:
   readings:
   optional:
-  logistics: Final project presentations session 2
+  logistics: Final project presentations
+
+- date: Tue 04/22/25
+  lecturer:
+  title: Agent-based systems
+  slides:
+  readings:
+  optional:
+  logistics:
 
 - date: Thu 04/24/25
   guest:
