@@ -214,7 +214,12 @@
   title:
     - Language Models for Code
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EffTQ1-ukm9AmaLOhG0yUAkBqLttqJQD_t2hpD6Gu70BlQ?e=Bf97kD
   readings:
+    - Efficient Training of Language Models to Fill in the Middle (Bavarian et al., 2022) <a href="https://arxiv.org/pdf/2207.14255" target="_blank">[link]</a>
+    - A Survey on Large Language Models for Code Generation (Jiang et al., 2024) <a href="https://arxiv.org/html/2406.00515v1" target="_blank">[link]</a>
+    - Code Llama- Open Foundation Models for Code (Roziere et al., 2023) <a href="https://arxiv.org/pdf/2308.12950", target="_blank">[link]</a>
+    - L2CEval- Evaluating Language-to-Code Generation Capabilities of Large Language Models (Ni et al., 2024) <a href="https://arxiv.org/pdf/2309.17446" target="_blank">[link]</a>
   optional:
   logistics: HW 2 due 
 
@@ -222,8 +227,11 @@
   lecturer:
     - Arman
   title:
-    - Scale (contd.)
+    - Post-training
+    - Supervised Finetuning
+    - Instruction Following
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EUDYKY_XkMdPlLpdJsJ9AvwBMP2uc0pqVEiKJf4VES0F0g?e=XDeJWa
   readings:
     - The Curious Case of Neural Text Degeneration (Holtzman et al., 2019) <a href="https://arxiv.org/pdf/1904.09751.pdf" target="_blank">[link]</a>
     - How to generate text- using different decoding methods for language generation with Transformers <a href="https://huggingface.co/blog/how-to-generate" target="_blank">[link]</a>
