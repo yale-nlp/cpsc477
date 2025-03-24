@@ -257,10 +257,10 @@
     - Data-centric NLP
   slides:
   readings:
-    - "OLMo: Accelerating the Science of Language Models" <a href="https://arxiv.org/abs/2402.00838" target="_blank">[link]</a>
-    - "DOLMA: An Open Corpus of Three Trillion Tokens for Language Model Pretraining Research" <a href="https://arxiv.org/pdf/2402.00159" target="_blank">[link]</a>
-    - "Organize the Web: Constructing Domains Enhances Pre-Training Data Curation" <a href="https://arxiv.org/abs/2502.10341" target="_blank">[link]</a>
-    - "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models"  <a href="https://arxiv.org/abs/2409.17146" target="_blank">[link]</a>
+    - OLMo- Accelerating the Science of Language Models <a href="https://arxiv.org/abs/2402.00838" target="_blank">[link]</a>
+    - DOLMA- An Open Corpus of Three Trillion Tokens for Language Model Pretraining Research <a href="https://arxiv.org/pdf/2402.00159" target="_blank">[link]</a>
+    - Organize the Web- Constructing Domains Enhances Pre-Training Data Curation <a href="https://arxiv.org/abs/2502.10341" target="_blank">[link]</a>
+    - Molmo and PixMo- Open Weights and Open Data for State-of-the-Art Vision-Language Models  <a href="https://arxiv.org/abs/2409.17146" target="_blank">[link]</a>
   optional:
   logistics: 
   
