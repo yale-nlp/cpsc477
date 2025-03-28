@@ -110,14 +110,11 @@ If you don't choose a team you will be randomly assigned a team mate. Invidiual 
     -   For undergraduate students the project could be reimplementation of an exsiting method,  a new user-facing application that uses NLP models for a new problem, a comprehensive survey into a subtopic of interest, deeper investigation of a paper and providing further insights by conducting additional experiments, or novel reseach. 
     -   For graduate students the project should include a component of novelty. E.g., it could propose a novel research, a novel investigation of existing methods, an extension of prior work for a specific purpose, or a new application.
 
-- **5%**: Progress report
-    -   Students should submit a 1 page progress report for their project. The progress report should include the current status of the project, the literature review, the challenges faced, and the plan for the remaining part of the project.
-
--   **10%**: Final project report
+-   **12%**: Final project report
     -   2-4 (no more than 4 pages) page conference format report (e.g., [NeurIPS](https://www.overleaf.com/latex/templates/neurips-2023/vstgtvjwgdng)) detailing the project motivation, related work, proposed approach, results, and discussion. You can think of this as a short conference paper. Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed methods didn't work and provide some additional insights into the problem. 
     -   References and appendix won't count towards the page limit
 
--   **8%**: Final project presentation
+-   **11%**: Final project presentation
     -  5 minute in person in-class presentations
 
 -   **2%**: Code and reproducibility checklist
