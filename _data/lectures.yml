@@ -357,12 +357,17 @@
 
 - date: Thu 04/24/25
   guest:
-    - name: TBD
+    - name: Chayan Sarkar
+      profile: https://www.linkedin.com/in/csarkar87/
+      photo: https://media.licdn.com/dms/image/v2/D4D03AQGe_SCm2puUmQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1667650062501?e=1748476800&v=beta&t=OGUvkW91UTipH0Cf70MHoqGsB31lQl4Qr7F4oHM_INk
+      affil: TCS
   title:
-    - Safety
-    - Noncomplience
+    - NLP in Robotics
   slides:
   readings:
+    - tagE- Enabling an Embodied Agent to Understand Human Instructions, (Sarkar et al, 2023) <a href="https://aclanthology.org/2023.findings-emnlp.593.pdf" target="_blank">[link]</a>
+    - DoRO- Disambiguation of Referred Object for Embodied Agents (Pramanick  et al, 2022) <a href="https://arxiv.org/pdf/2207.14205" target="_blank">[link]</a>
+    - Enabling Human-Like Task Identification From Natural Conversation (Pramanick  et al, 2020) <a href="https://arxiv.org/abs/2008.10073" target="_blank">[link]</a>
   optional:
   logistics: HW3 due, Final project reports due on 5/1
 
