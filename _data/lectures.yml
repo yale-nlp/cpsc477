@@ -284,6 +284,7 @@
     - Reinforcement learning from Human Feedback
     - Alignment
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Eao1PnDqk_RGpGpZqpg7WqcB5VJeU29cw1iCm5z91Lmlug?e=3b1Hfp  
   readings:
     - Training language models to follow instructions with human feedback (Ouyang et al., 2022) <a href="https://arxiv.org/abs/2203.02155" target="_blank">[link]</a>
     - Fine-Tuning Language Models from Human Preferences (Ziegler et al., 2019) <a href="https://arxiv.org/abs/1909.08593" target="_blank">[link]</a>
@@ -296,7 +297,7 @@
   title:
     - Post-training (contd...)
   slides:
-    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/Eao1PnDqk_RGpGpZqpg7WqcB5VJeU29cw1iCm5z91Lmlug?e=3b1Hfp
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EQgLrSEIxwlHq7DPGlQ95osBSw4pQrBnzIbBFwVW7payGQ?e=pzFaTv    
   readings:
   optional:
   logistics: HW 3 out
