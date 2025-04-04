@@ -256,6 +256,7 @@
     - Impact of data on LLMs
     - Data-centric NLP
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EefQF2NhxVxIgscGjQrKeYABy4fTrBpUHbc9Wx2geuV8nQ?e=RqFcFG
   readings:
     - OLMo- Accelerating the Science of Language Models <a href="https://arxiv.org/abs/2402.00838" target="_blank">[link]</a>
     - DOLMA- An Open Corpus of Three Trillion Tokens for Language Model Pretraining Research <a href="https://arxiv.org/pdf/2402.00159" target="_blank">[link]</a>
