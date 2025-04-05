@@ -6,6 +6,50 @@ title: Homework Assignments
 
 All homeworks should be submitted through Gradscope.
 
+
+## Homework 3
+
+Note: This homework requires training models. 
+We would recommend starting early as last minute issues with GPUs/availability are not uncommon.
+
+### Part 1: Fine-tuning language models with preference feedback (80 points)
+
+In this part, you will implement a training pipeline for language models and fine-tune them with preference feedback using the Direct Preference Optimization (DPO) framework. You will also evaluate the performance of the fine-tuned models on a text classification task.
+The detailed instructions are provided in the Colab notebook.
+
+Access the Colab Notebook Here: [Colab Notebook](https://colab.research.google.com/drive/1qdOZmacmSIlOQWj1oRI4l41DPZspYrh-?usp=sharing)
+
+The notebook is self-contained and will guide you through the process of implementing DPO and training a model with it.
+
+### Part 2: Implementing LoRA from scratch (70 points)
+
+The objective of this part is to implement the LoRA model from scratch.
+
+You will be using the Hugging Face `transformers` library to load the model and the dataset.
+Then you will be modifying a `Roberta` pre-trained model to make it a LoRA model.
+Then you will be training the model on a small sentiment analysis dataset and investigate the performance of the model.
+
+Download the Google Colab notebook from the following link: [Download](https://colab.research.google.com/drive/14KxwtxPe6_72-x8pOalTpUkpxtCrNv08?usp=sharing).
+
+The notebook is self-contained and will guide you through the process of implementing the LoRA model from scratch.
+
+Note: This part might take a while to train (about 25 minutes on T4 gpus).
+So I would recommend either running it on a local server or on HPC cluster.
+And please start early.
+
+### Part 3: Implementing a retrieval pipeline for a RAG system (50 points)
+
+In this part, you will be implementing a retrieval pipeline for a RAG system.
+
+You will be using and implementing an encoder model with dense embeddings and a dense retriever.
+
+
+Download the Google Colab notebook from the following link: [Download](https://colab.research.google.com/drive/1q_2IBrEXgh4j0rDwCgwsfj2wr4v88T3U?usp=sharing).
+
+The notebook is self-contained and will guide you through the process of implementing the LoRA model from scratch.
+
+
+
 ## Homework 2
 
 ### Part 1: Implementing a transformer model (50 points)
