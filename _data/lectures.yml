@@ -321,8 +321,9 @@
 - date: Tue 04/08/25
   lecturer:
   title:
-    - Parameter-efficient Fine-Tuning
+    - Retrieval Augmented Generation (RAG)
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EZvLa2IIKLhJipRCZVgOLREB8MDQt8Qwo_T0mKc_GTBmNg?e=lIoZEU
   readings:
   optional:
   logistics:
