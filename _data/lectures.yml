@@ -334,32 +334,7 @@
   title: >
     <strong> Midterm Exam 2 </strong>
 
-- date: Tue 04/15/25
-  lecturer:
-  title:
-    -  Project presentations session 1
-  slides:
-  readings:
-  optional:
-  logistics: Final project presentations
-
-- date: Thu 04/17/25
-  lecturer:
-  title: Project presentations session 2
-  slides:
-  readings:
-  optional:
-  logistics: Final project presentations
-
-- date: Tue 04/22/25
-  lecturer:
-  title: Agent-based systems
-  slides:
-  readings:
-  optional:
-  logistics:
-
-- date: Thu 04/24/25
+- date: Thu 04/15/25
   guest:
     - name: Chayan Sarkar
       profile: https://www.linkedin.com/in/csarkar87/
@@ -373,7 +348,32 @@
     - DoRO- Disambiguation of Referred Object for Embodied Agents (Pramanick  et al, 2022) <a href="https://arxiv.org/pdf/2207.14205" target="_blank">[link]</a>
     - Enabling Human-Like Task Identification From Natural Conversation (Pramanick  et al, 2020) <a href="https://arxiv.org/abs/2008.10073" target="_blank">[link]</a>
   optional:
-  logistics: HW 3 due on 4/28, <br/> Final project reports due on 5/1
+  logistics: 
+
+- date: Tue 04/17/25
+  lecturer:
+  title: RAG continued, Intro to Agent-based systems
+  slides:
+  readings:
+  optional:
+  logistics:  
+
+- date: Tue 04/22/25
+  lecturer:
+  title:
+    -  Project presentations session 1
+  slides:
+  readings:
+  optional:
+  logistics: Final project presentations
+
+- date: Thu 04/24/25
+  lecturer:
+  title: Project presentations session 2
+  slides:
+  readings:
+  optional:
+  logistics: Final project presentations, HW 3 due on 4/28, <br/> Final project reports due on 5/1  
 
 # - date: Thu 04/24/25
 #   guest:
